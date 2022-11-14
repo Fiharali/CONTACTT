@@ -1,0 +1,11 @@
+body{
+  background-image: linear-gradient(to right, rgb(171, 153, 244),rgb(115, 92, 230),rgb(130, 58, 207),rgb(108, 43, 248),blue,rgb(105, 25, 162),rgb(54, 19, 129));
+  font-weight: bolder;
+  
+}
+ table{
+  background-color: rgb(189, 177, 226);
+  border-radius: 10px;
+ }
+ 
+ 
